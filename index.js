@@ -5,7 +5,7 @@ const myservice1 = require('./myservice1.js');
 const myservice2 = require('./myservice2.js');
 
 const app = express();
-const port = 80;
+const port = 3000;
 
 var consoleHistory = [];
 
